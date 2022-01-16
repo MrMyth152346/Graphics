@@ -33,7 +33,7 @@ int main()
     */
 
     TextBox.text_aligned = true; // This makes the text aligned as you can see
-    TextBox.text = "hello";
+    TextBox.text = "Hello, World!";
     
     MYTH::FUNCTIONS::Mouse::set_Visible(false); 
     // This function sets the terminal's cursor visible
